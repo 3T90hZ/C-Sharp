@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MyWeb2.Controllers.CircleController",
+    "Method": "Tinh",
+    "RelativePath": "api/Circle/cv_dt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rr",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
